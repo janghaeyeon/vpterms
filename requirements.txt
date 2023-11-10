@@ -4,4 +4,5 @@ streamlit
 ctransformers
 pypdf
 tiktoken
+pysqlite3-binary
 chromadb
